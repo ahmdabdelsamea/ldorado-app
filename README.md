@@ -10,14 +10,10 @@
 
 l.dorado makes investing in real estate easy and affordable
 
-![ldorado](ldorado-property.png)
-
 1. Singup to get access to dashboard and test the website
 2. Use Stripe test card numbers to add money to wallet `4242 4242 4242 4242` or `4000 0027 6000 3184`
 3. Invest in properties to see them added to your portfolio
 4. Sell properties for the public
-
-![ldorado](ldorado-dashboard.png)
 
 ### Technologies :rocket:
 
