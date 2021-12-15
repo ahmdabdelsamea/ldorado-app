@@ -2,14 +2,13 @@
 
 <h3 align="center">React Native App for crowd funding real estate investing</h3>
 
-![ldorado](ldorado-invest.png)
-[![Demo CountPages alpha](ldorado_App_Demo.gif)](https://youtu.be/pnpmC7Vfgto)
+![ldorado](ldorado_App_Demo.gif)
 
 ---
 
 ### Demo :house_with_garden:
 
-l.dorado makes investing in real estate easy and affordable [ldorado](https://ldorado.herokuapp.com/)
+l.dorado makes investing in real estate easy and affordable [ldorado](https://youtu.be/pnpmC7Vfgto)
 
 ![ldorado](ldorado-property.png)
 
